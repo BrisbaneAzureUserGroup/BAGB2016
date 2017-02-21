@@ -928,8 +928,12 @@ section#screens .filter a.active {
   background: #66cdcc;
   border-color: #66cdcc;
 }
-/* demo video Section */
+/* demo video Section 
 section#demo {
+  background: #f6f6f6;
+}
+*/
+section#requirements {
   background: #f6f6f6;
 }
 section#demo header h1:after {
